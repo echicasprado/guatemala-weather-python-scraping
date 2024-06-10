@@ -26,6 +26,5 @@ async def main():
     for table in tablas:
         df = pd.read_html(str(table))[0]
         print(df)
-    # print(soup.prettify())
 
 asyncio.get_event_loop().run_until_complete(main())

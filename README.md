@@ -1,1 +1,1 @@
-# guatemala-weather-python-scraping
+# guatemala-weather-scraping
